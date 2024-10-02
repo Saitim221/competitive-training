@@ -1,6 +1,6 @@
 /* C. Number of Pairs
 https://codeforces.com/contest/1538/problem/C
-Solution From Santino C.
+Saitim's solution.
 
    |\__/|
    /     \
