@@ -1,6 +1,6 @@
 /* A. Dragons
 https://codeforces.com/problemset/problem/230/A
-Solution From Santino C.
+Saitim's solution.
 
    |\__/|
    /     \
